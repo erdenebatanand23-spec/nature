@@ -1,0 +1,6 @@
+{
+  "name": "ФлораТех — Ургамлын Ухаалаг Сан",
+  "description": "Дэлхийн ургамал, модны ангиллын мэдээлэл болон ургамал арчилгааны ухаалаг технологийн бүтээгдэхүүний цахим платформ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
